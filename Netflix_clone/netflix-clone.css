@@ -1,0 +1,137 @@
+body {
+    font-family: 'Netflix Sans', sans-serif;
+    background-color: #111;
+}
+
+.nav {
+    height: 60px;
+    background-color: rgb(24, 24, 24);
+}
+
+.image {
+    height: 48px;
+    margin-left: 30px;
+}
+
+.banner {
+    color: white;
+    height: 100vh;
+    object-fit: contain;
+    background-size: cover;
+}
+
+.banner-contents {
+    margin-left: 70px;
+    padding-top: 340px;
+    height: 190px;
+    width: 450px;
+    margin-bottom: 300px;
+}
+
+.banner-heading {
+    color: #E50914;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.banner-description {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.banner-fadebottom {
+    height: 7.4rem;
+    background-image: linear-gradient(180deg,
+            transparent,
+            rgba(37, 37, 37, .61),
+            #111);
+}
+
+.button {
+    border-radius: 4px;
+    background-color: white;
+    color: black;
+    margin-right: 10px;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button2 {
+    border-radius: 4px;
+    background-color: gray;
+    color: white;
+    margin-right: 10px;
+    height: 40px;
+    width: 125px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.user-image {
+    height: 35px;
+    width: 35px;
+    border-radius: 4px;
+    margin-left: 12px;
+    margin-right: 30px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.row-images {
+    height: 180px;
+    width: 140px;
+    background-size: cover;
+    margin-left: 8px;
+}
+
+.row-heading {
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.bottom-icons {
+    color: white;
+    margin: 12px;
+}
+
+.bottom-container {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.list-container {
+    list-style-type: none;
+    color: rgb(158, 148, 148);
+}
+
+.list-item {
+    margin: 10px;
+    margin-right: 40px;
+}
+
+.icons-row {
+    margin-left: 30px;
+}
+
+.bottom-button {
+    background-color: transparent;
+    color: rgb(158, 148, 148);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(158, 148, 148);
+    border-radius: 0px;
+    margin: 15px;
+}
+
+.color {
+    color: rgb(158, 148, 148);
+}
